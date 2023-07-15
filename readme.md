@@ -5,3 +5,4 @@ Link to Scrimba Course: https://scrimba.com/learn/learnreact
 Thanks Bob Ziroll!
 
 ![Screenshots](https://github.com/Doc-Omer/Air-Bnb-Clone/blob/master/public/Screenshot1.png?raw=true)
+![Screenshots](https://github.com/Doc-Omer/Air-Bnb-Clone/blob/master/public/Screenshot2.png?raw=true)
